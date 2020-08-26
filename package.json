@@ -1,0 +1,20 @@
+{
+  "name": "taro",
+  "version": "1.0.0",
+  "description": "taro's profile page",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YSSkywalker/taro.git"
+  },
+  "author": "YSSkywalker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YSSkywalker/taro/issues"
+  },
+  "homepage": "https://github.com/YSSkywalker/taro#readme"
+}

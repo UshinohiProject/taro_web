@@ -4,7 +4,7 @@
   "description": "taro's profile page",
   "main": "index.js",
   "scripts": {
-    "build": "babel src -d lib",
+    "build": "yarn build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
